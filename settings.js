@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6287752078797','6287760550924','6287752078797'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6287752078797'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6287752078797' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6287760550924','6287760550924','6287752078797'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6287760550924'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6287760550924' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'GilangMd' //ubah jadi nama mu, note tanda ' gausah di hapus!
