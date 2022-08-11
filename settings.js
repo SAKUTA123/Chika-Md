@@ -27,17 +27,17 @@ global.premium = ['6287760550924'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6287760550924' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'GilangMd' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Papa-Chan👑' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'GilangMd' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = 'Papa-Chan👑' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCUCIUrN5VfgPqVcJ99gdr5A'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/FLIJKsr68HG0zRGmtKFey3'
+global.ig = 'https://instagram.com/manhwa'
+global.mygc = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u'
 global.myweb = 'https://s.id/SAKUTA123'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'twozerot3@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
@@ -82,10 +82,10 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
-success: '_Done._',
+success: '_Done Ok desu._',
 admin: '_Fitur Khusus Admin Group!_',
 botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
+owner: '_Fitur Khusus Orang ganteng_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
